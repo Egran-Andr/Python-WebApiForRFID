@@ -1,0 +1,26 @@
+fastapi
+uvicorn
+
+#for template
+jinja2
+
+#for static files
+aiofiles
+
+#for database   
+sqlalchemy         
+psycopg2
+
+#for loading environment variables  
+python-dotenv
+
+#for field validation            
+pydantic
+
+#for testing
+pytest
+requests
+httpx
+
+#for file transfer
+python-multipart
